@@ -57,8 +57,10 @@ The configuration includes detailed settings for routers, switches, and WiFi acc
 ### Subnet and VLAN Allocation
 The IP allocation for each section is detailed as follows:
 - IT Centre Block:
-- 
-- Department Block: [List of subnets and IP ranges]
+  
+- Department Block: 
+Department block_Ip Addresses.png
+
 
 ### Steps to Configure Routers and Switches
 1. Router Configuration: Basic steps for setting up router IP addresses, VLAN routing, and security settings.
