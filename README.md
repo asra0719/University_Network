@@ -57,9 +57,11 @@ The configuration includes detailed settings for routers, switches, and WiFi acc
 ### Subnet and VLAN Allocation
 The IP allocation for each section is detailed as follows:
 - IT Centre Block:
-  
+  ![IT block_IP Addresses](IT block_IP Addresses.png)
+
 - Department Block: 
-Department block_Ip Addresses.png
+ ![Department block_Ip Addresses](Department block_Ip Addresses.png)
+
 
 
 ### Steps to Configure Routers and Switches
